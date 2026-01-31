@@ -20,4 +20,9 @@ To run the script:
 
 This is work in progress. So I recommend you first do a test run and have a specific folder on disk as a destination folder.
 
-Sofar I have tested it on the Knulli Gladiator OS. But the script should work on all firmware, as long as the config and destination folder is properly selected.
+Sofar I have tested it on Linux Ubuntu OS and the Knulli Gladiator firmware. But the script should work Windows and on all firmware, as long as the config and destination folder is properly selected.
+
+### DISCLAIMER:
+
+I have created this script with the help of AI. I have added the initial prompt from which the script was created. I have also read through the script and checked
+if it has anything out of the ordinary and it looked good to me and it seems to work fine.
