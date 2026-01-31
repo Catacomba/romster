@@ -1,0 +1,22 @@
+{
+  ".gba": "gba",
+  ".gb": "gb",
+  ".gbc": "gbc",
+  ".nes": "nes",
+  ".sfc": "snes",
+  ".smc": "snes",
+  ".n64": "n64",
+  ".z64": "n64",
+  ".v64": "n64",
+  ".psx": "psx",
+  ".bin": "psx",
+  ".iso": "psx",
+  ".gen": "genesis",
+  ".md": "genesis",
+  ".sms": "mastersystem",
+  ".gg": "gamegear",
+  ".pce": "pcengine",
+  ".cue": "psx",
+  ".chd": "psx"
+}
+
